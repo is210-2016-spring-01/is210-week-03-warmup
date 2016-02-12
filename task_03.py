@@ -4,3 +4,5 @@
 
 
 WILL_ROBINSON = 'Danger Will Robinson!'
+
+WILL_ROBINSON = WILL_ROBINSON[0:6]
