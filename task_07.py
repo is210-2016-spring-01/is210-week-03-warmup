@@ -5,3 +5,4 @@
 import task_06
 
 WORDS = task_06.WORDS
+GRA = 'granaries' in WORDS
