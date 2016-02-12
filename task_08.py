@@ -18,3 +18,15 @@ NERVOUS_AS = """
 
 
 """
+
+print NERVOUS_AS.strip()
+
+NERVOUS_AS = NERVOUS_AS.strip()
+
+print NERVOUS_AS
+
+print NERVOUS_AS.rstrip(',').lstrip('/')
+
+NERVOUS_AS = NERVOUS_AS.rstrip(',').lstrip('/')
+
+print NERVOUS_AS
