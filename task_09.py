@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""A computer that can build the question."""
-"""Adding a multi-line docstring to task_09.py.  This docstring should break
+"""A computer that can build the question.
+A computer that can build the question.  Adding a multi line docstring and
+breaking it into two paragraphs.
 
-across two paragraphs.
-"""
+Here is another sentence."""
 
 
 THE_ANSWER_TO_EVERYTHING = 42

@@ -7,5 +7,3 @@ import task_06
 WORDS = task_06.WORDS
 
 GRANARIES_EXIST = 'granaries' in WORDS
-
-
