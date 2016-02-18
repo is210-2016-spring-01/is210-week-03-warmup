@@ -5,3 +5,8 @@
 
 NOT_THE_QUESTION = 'The answer to life, the universe, and everything? It\'s '
 ANSWER = 42
+
+STR = '42'
+
+
+print NOT_THE_QUESTION + STR
