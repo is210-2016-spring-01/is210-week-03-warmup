@@ -8,5 +8,4 @@ ANSWER = 42
 
 STR = '42'
 
-
 print NOT_THE_QUESTION + STR
