@@ -20,5 +20,5 @@ NERVOUS_AS = """
 """
 
 print NERVOUS_AS.strip()
-NERVOUS_AS = "//////////A long-tailed cat in a room full of rockin' chairs.,,,,,,,,,,"
+NERVOUS_AS = "//////////A long-tailed cat in a room full of rockin' chairs.,,,,"
 print NERVOUS_AS.rstrip(",").lstrip("/")
