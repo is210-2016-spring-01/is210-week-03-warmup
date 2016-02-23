@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""A computer that can build the question. And then it can answer the
+"""A computer that can build the question.
+And then it can answer the
 questions of the universe.
 """
 
