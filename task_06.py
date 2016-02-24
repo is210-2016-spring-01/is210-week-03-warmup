@@ -12,4 +12,4 @@ WORDS = FHANDLER.read()
 
 FHANDLER.close()
 
-WORDCT = len(WORDS.split(' '))
+WORDCT = len(WORDS.split())
