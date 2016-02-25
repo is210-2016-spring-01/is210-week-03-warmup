@@ -8,8 +8,7 @@ DPATH = os.path.dirname(os.path.abspath(__file__))
 FHANDLER = open(os.path.join(DPATH, 'war_and_peace.txt'), 'r')
 WORDS = FHANDLER.read()
 FHANDLER.close()
-LINE = 'war_and_peace.txt'
-LINE.split('_')
-WORDCT = LINE.split('_')
+WORDS = 'war_and_peace.txt'
+WORDCT = WORDS.split('_')
 print WORDCT
 print len(WORDCT)
