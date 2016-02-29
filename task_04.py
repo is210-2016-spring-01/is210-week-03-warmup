@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """Repeat our danger."""
 
-
 import task_03
 
 
