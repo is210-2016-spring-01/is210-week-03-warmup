@@ -5,8 +5,4 @@
 
 WILL_ROBINSON = 'Danger Will Robinson!'
 
-print WILL_ROBINSON[0:7]
-
-KLAXON = 'Danger'
-
-print KLAXON
+KLAXON = WILL_ROBINSON[:7]
