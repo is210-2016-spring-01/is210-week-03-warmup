@@ -5,3 +5,6 @@
 THE_ANSWER_TO_EVERYTHING = 42
 
 INFINITE_IMPROBABILITY = 'browning motion'
+
+LONGSTRING = (''' First second third '
+              'this is the bottom line ''')
